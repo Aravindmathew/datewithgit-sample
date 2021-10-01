@@ -1,0 +1,24 @@
+[33mcommit e289e8e6e3897394f5199a6faa399c1fa86b91ca[m[33m ([m[1;35mrefs/stash[m[33m)[m
+Merge: b60ff45 ee092eb
+Author: Aravind Mathew <aravindmathew74@gmail.com>
+Date:   Fri Oct 1 13:57:47 2021 +0530
+
+    WIP on master: b60ff45 Second file added
+
+[33mcommit ee092eb68d65f1d80d0699453c82ac3031ca9db4[m
+Author: Aravind Mathew <aravindmathew74@gmail.com>
+Date:   Fri Oct 1 13:57:47 2021 +0530
+
+    index on master: b60ff45 Second file added
+
+[33mcommit b60ff455e95a51bac3e6c67adc40e73ab505065b[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;32mfeature[m[33m)[m
+Author: Aravind Mathew <aravindmathew74@gmail.com>
+Date:   Thu Sep 30 20:59:11 2021 +0530
+
+    Second file added
+
+[33mcommit 62c727e12258a3ff7f0ba404261e3233c7b4c43d[m
+Author: Aravind Mathew <aravindmathew74@gmail.com>
+Date:   Thu Sep 30 16:57:22 2021 +0530
+
+    Inittial Commit
